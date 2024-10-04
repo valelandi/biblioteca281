@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgb(57, 177, 10);
+}
+
+h1, h2 {
+    color: #792a2a;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #203142;
+}
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form input {
+    margin-bottom: 18px;
+}
